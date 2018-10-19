@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CF8539EF-638
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LittleTricks", "src\LittleTricks\LittleTricks.csproj", "{CA67B42E-8F64-4438-952A-7BFA77813C34}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieRental", "src\MovieRental\MovieRental.csproj", "{25B9B0FF-1536-41B2-99CF-EED1D9711B1D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{CA67B42E-8F64-4438-952A-7BFA77813C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA67B42E-8F64-4438-952A-7BFA77813C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA67B42E-8F64-4438-952A-7BFA77813C34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25B9B0FF-1536-41B2-99CF-EED1D9711B1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25B9B0FF-1536-41B2-99CF-EED1D9711B1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25B9B0FF-1536-41B2-99CF-EED1D9711B1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25B9B0FF-1536-41B2-99CF-EED1D9711B1D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
